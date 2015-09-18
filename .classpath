@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="res"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/net.rim.ejde.BlackBerryVMInstallType/BlackBerry JRE 5.0.0"/>
+	<classpathentry exported="true" kind="lib" path="lib/json-me.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/kxml2-min-2.3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/twitter_api_me-1.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/FacebookBlackBerrySDK-v0.8.25.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/Log4B-v0.9.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
